@@ -15,8 +15,8 @@ namespace ledblink{
     //     pins.digitalWritePin(p, s);
     // }
 
-    //% blockId=printName weight=60 blockGap=30
-    //% block ="Enter a string to print %name"
+    //% blockId=PrintFunction weight=10 blockGap=22
+    //% block="value of moisture sensor at pin %name"
     export function showname(name: string) {
         basic.showString(name)
     }
