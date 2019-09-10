@@ -16,7 +16,7 @@ namespace ledblink{
     // }
 
     //% blockId=printName weight=60 blockGap=30
-    //% block="Enter a string to print %name"
+    //% block ="Enter a string to print %name"
     export function showname(name: string) {
         basic.showString(name)
     }
