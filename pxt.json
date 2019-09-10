@@ -1,0 +1,17 @@
+{
+    "name": "Led Test",
+    "version": "1.0.0",
+    "description": "The Test Program",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
