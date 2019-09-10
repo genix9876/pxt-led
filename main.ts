@@ -7,7 +7,7 @@ basic.showLeds(`
     `);
 
 
-//% color = #0000f0 icon = "\uf121"
+//% color = #008000
 namespace ledblink{
     // //% blockId=blinkled weight 70 blockGap = 30
     // //% block="blink led at pin %p| digital write %s" 
